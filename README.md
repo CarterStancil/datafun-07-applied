@@ -1,6 +1,7 @@
 # datafun-07-applied
 Data Analytics Fundamentals Module 7 
 
+This project implements machjine learning as we created a guided project
 # Commands used 
 
 ```
